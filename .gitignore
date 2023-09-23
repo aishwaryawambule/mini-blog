@@ -1,0 +1,18 @@
+# Logs
+npm-debug.log*
+
+# Dependencies
+node_modules/
+
+# Transpiled files
+dist/
+
+# VS Code
+.vscode
+
+# Optional npm cache directory
+.npm
+
+.env
+package-lock.json
+
